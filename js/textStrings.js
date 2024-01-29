@@ -720,3 +720,106 @@ var textStrings_ZH_TW = {
     // (quote0004.png)
     "misatrributed"      : "(沒有說過)" ,
 };
+
+var textStrings_PH = {
+	// Act 1
+	"niceHat": "UYY GANDANG SUMBRERO",
+	"outtaHere": "sige, alis na!",
+	"getARoom": "KADIRI, MAGGANYAN KAYO SA SARILING KWARTO!",
+	"notCoolAnymore": "di na uso yung sumbrero",
+	"tvOnTv": "TV... SA TV!",
+	"cricky": "MUNTING' KRIKYY <3",
+	"tooManyCrickets": "okay, sobrang dami nang crickets",
+	"normalPeep": "normal lang na tao",
+	"normalPeeps": "mga normal na tao lang",
+	"wowNothing": "WOWWW, WALA!!",
+
+	// Act 2
+	"crazySquareAttacks": "BALIW NA PARISUKAT, UMAATAKE!",
+	"justMissed": "uuuyy sayang, halos nakunan",
+	"somethingInteresting": "(kailangan *may* ginagawa silang nakakaakit...)",
+	"whoIsScreaming": "(kailangan makita yung naninigaw)",
+	"circleFearsSquares": "BILOG, TAKOT SA MGA PARISUKAT",
+	"whoScaresThem": "(kailangan din mahuli *sino* nanakot)",
+	"areTheyScared": "(kailangan mahuli rin sila *tinatakot* ng parisukat)", // not used
+	"squaresSnubCircles": "MGA PARISUKAT, SUPLADO SA MGA BILOG",
+	"areTheySnubbed": "(kailangan nahuli sila *habang* suplado)", // not used
+	"everyoneHates": "LAHAT AYAW SA LAHAT!!1!",
+	"almostEveryoneHates": "HALOS LAHAT AYAW NA SA LAHAT...",
+	"squaresHateCircles": "MGA PARISUKAT, AYAW SA MGA BILOG",
+	"circlesHateSquares": "MGA BILOG, AYAW SA MGA PARISUKAT",
+	"areTheyYelling": "(kailangan mahuli silang *naninigaw*)", // not used
+	"nerdsNow": "ano nang ginagawa ng mga hayop na 'to...",
+	"schockedPeep": "bakit nagulat 'tong taong 'to?",
+	"whatever": "basta",
+
+	// Act 3
+	"ellipsis": ". . .",
+	"coolNoMore": "'di na uso yung mga sumbrero, bingi ka ba?",
+	"beScared": "MATAKOT. MAGALIT.",
+
+	// MANIFESTO
+	"manifesto": [
+		//"as if you viewers want GOOD news"       ,
+		"sino nanonood sa *mga taong nagsisisaya?*",
+		"nakakainip ang payapa. nagvi-viral ang karahasan.",
+		//"peace is boring. conflict gets clicks." ,
+		"at kailangan may away sa lahat ng kwento, kaya...",
+		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
+		"IBIGAY ANG GUSTO NG NANONOOD."
+	],
+
+	// -- Strings currently in graphics resources --
+
+	// (bg_preload.png) Preload screen
+	"playingTime": "oras sa paglaro: 5 minuto",
+	"warning": "babala: ang susunod na programa\nmay nilalamang eksenang pagkamasuplado,\npagkamalupit & malawakang pagpatay.\nkailangan ng diskresyon ng manlalaro.",
+
+	// (cam-instructions.png) Camera Instructions
+	"pointAndClick": "MAG-POINT & MAG-CLICK",
+
+	// (chyron3.png)
+	"chyronNothing": "WOWWEE, *WALAA*",
+
+	// (credits0001.png)
+	"createdBy": "ginawa ni",
+	"NickyCase": "Nicky Case",
+
+	// (credits0002.png)
+	"manyThanks": "maraming salamat sa mga playtesters:",
+
+	// (credits000[3,4,5,6].png)
+	"patreonSupporters": "at sa aking mga suporter sa patreon:",
+
+	// (credits0007.png)
+	"lastButNotLeast": "at last but not the least,",
+
+	// (credits0008.png)
+	"thankYouForPlaying": "salamat sa IYO sa paglalaro!",
+
+	// (preload_play.png)
+	"playButton": "MAGLARO",
+
+	// (end_button.png) Post Credits
+	"otherWorkButton": "tignan ang aking ibang gawa",
+	"buyCoffeeButton": "bilhan ako ng kape",
+	"replayButton": "ulitin ang kaguluhan",
+
+	// (logo.png) Post Credits
+	"logoWBWWB": "IBAHAGI ANG SAKIT:",
+
+	// (end_prototype.png)
+	"endOfPrototype": "TAPOS NG PROTOTYPE",
+	"toBeContinued": "(itutuloy!)",
+
+	// (quote0002.png)
+	"WBWWB": "Magiging ang ating minamasdan.",
+	"WSOTATOTSU": "Humuhubog ng kagamitan, hinuhubog ng kagamitan.",
+
+	// (quote0003.png)
+	"MarshallMcLuhan": "Marshall McLuhan",
+
+	// (quote0004.png)
+	"misatrributed": "(maling pagkakaugnay)",
+};
+
