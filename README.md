@@ -1,4 +1,4 @@
-# DEAR ASPIRING TRANSLATORS, PLEASE CHECK THE MAIN PAGE DESCRIPTION FIRST TO SEE IF YOUR TRANSLATION ALREADY EXISTS: https://ncase.itch.io/wbwwb (also check the Issues to see if your translation is already being worked on - collaborate with them if they're stuck!)
+# We Become What We Behold
 
 *a game about news cycles, vicious cycles, infinite cycles*
 
@@ -7,6 +7,8 @@
 ---
 
 ### Made with open culture, for open culture!
+
+**Message from the original author:**
 
 I'm releasing all my code and art to the public domain, under the [Creative Commons Zero](http://creativecommons.org/publicdomain/zero/1.0/) un-license. Which means if you wanna remix this to make your own way-too-meta game, or use it in a presentation or classroom or whatever, you already have my permission!
 
