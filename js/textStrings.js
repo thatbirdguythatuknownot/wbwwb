@@ -813,7 +813,7 @@ var textStrings_PH = {
 	"toBeContinued": "(itutuloy!)",
 
 	// (quote0002.png)
-	"WBWWB": "Magiging ang ating minamasdan.",
+	"WBWWB": "Tayo'y magiging ang ating minamasdan.",
 	"WSOTATOTSU": "Humuhubog ng kagamitan, hinuhubog ng kagamitan.",
 
 	// (quote0003.png)
