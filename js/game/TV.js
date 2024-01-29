@@ -92,20 +92,16 @@ function TV(scene){
 
 		// Chyron Text
 		if(!options.nothing){
-			if(language == "JP"){
-				var fontsize=100, max=9;
-			} else{
-				var fontsize=100, max=14;
-			}
+			var fontsize=50, max=14;
 			if(text.length>max){ // more than [max] chars...
 				fontsize = Math.floor(max*fontsize/text.length);
 			}
-		    var text = new PIXI.Text(text, {font:"bold "+fontsize+"px Poppins", fill:"#FFF"});
+		    var text = new PIXI.Text(text + "\n", {font:"bold "+fontsize+"px Poppins", fill:"#FFF"});
 		    text.scale.x = text.scale.y = 0.2;
 		    text.anchor.x = 0;
 		    text.anchor.y = 0.5;
-		    text.x = 45;
-		    text.y = 115;
+		    text.x = 30;
+		    text.y = 120;
 		    chyron.addChild(text);
 		}
 
