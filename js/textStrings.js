@@ -773,7 +773,7 @@ var textStrings_PH = {
 
 	// (bg_preload.png) Preload screen
 	"playingTime": "oras sa paglaro: 5 minuto",
-	"warning": "babala: ang susunod na programa\nmay nilalamang eksenang pagkamasuplado,\npagkamalupit & malawakang pagpatay.\nkailangan ng diskresyon ng manlalaro.",
+	"warning": "babala: ang susunod na programa\nay may nilalamang eksenang pagkamasuplado,\npagkamalupit & malawakang pagpatay.\nkailangan ng diskresyon ng manlalaro.",
 
 	// (cam-instructions.png) Camera Instructions
 	"pointAndClick": "MAG-POINT & MAG-CLICK",
