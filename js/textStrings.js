@@ -823,26 +823,4 @@ var textStrings_PH = {
 	"misatrributed": "(maling pagkakaugnay)",
 };
 
-const textStrings = (() => {
-	switch (navigator.language) {
-		case "en-US":
-			return textStrings_EN;
-		case "da":
-			return textStrings_DA;
-		case "fa":
-			return textStrings_FA;
-		case "pt-pt":
-			return textStrings_PT;
-		case "pt-BR":
-			return textStrings_PT_BR;
-		case "es":
-			return textStrings_ES;
-		case "es":
-			return textStrings_GR;
-		case "fil":
-			return textStrings_PH;
-		default:
-			return textStrings_EN;
-	}
-}
-)();
+textStrings = textStrings_PH;
