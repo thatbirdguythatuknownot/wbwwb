@@ -839,7 +839,7 @@ const textStrings = (() => {
 			return textStrings_ES;
 		case "es":
 			return textStrings_GR;
-		case "tl-PH":
+		case "fil":
 			return textStrings_PH;
 		default:
 			return textStrings_EN;
